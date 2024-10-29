@@ -20,7 +20,7 @@ export const Footer: React.FC = () => {
             <div className="space-y-2">
               <p>45 Nelson Mandela Drive</p>
               <p>Nairobi, Kenya 00100</p>
-              <p>Phone: +254 712 345 6</p>
+              <p>Phone: +254 747 986 200</p>
               <p className="flex items-center gap-2">
                 <Mail size={16} className="text-green-500" />
                 support@artverse.co.ke
